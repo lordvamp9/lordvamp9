@@ -44,9 +44,6 @@
 
 <div align="center">
 
-```
-lordvamp9@arch ~ $
-```
 
 [![Discord](https://img.shields.io/badge/Discord-wwwvwes-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wwwvwes)
 
