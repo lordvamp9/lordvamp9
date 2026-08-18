@@ -45,5 +45,6 @@
 
 
 [![Discord](https://img.shields.io/badge/Discord-wwwvwes-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wwwvwes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Muñoz_Loyola-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-mu%C3%B1oz-loyola-1b1484419/)
 
 </div>
